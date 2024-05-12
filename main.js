@@ -1,4 +1,3 @@
-// Event listener na dugme 
 document.getElementById('getQuoteBtn').addEventListener('click', () => {
 
     const apiUrl = 'https://api.quotable.io/random';
@@ -26,4 +25,5 @@ document.getElementById('getQuoteBtn').addEventListener('click', () => {
         authorElement.textContent = ''
     })
 
-})
+}) 
+  // Sada napraviti novi fajl i razbiti sve na funkcije i tako vezvati modularnost koda.
