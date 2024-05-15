@@ -26,4 +26,4 @@ document.getElementById('getQuoteBtn').addEventListener('click', () => {
     })
 
 }) 
-  // Sada napraviti novi fajl i razbiti sve na funkcije i tako vezvati modularnost koda.
+  // Sada napraviti novi fajl i razbiti sve na funkcije i tako vezbati modularnost koda.
